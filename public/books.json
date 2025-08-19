@@ -1,0 +1,19 @@
+
+  [
+    {
+      "id": 1,
+      "title": "Angular Mastery",
+      "price": 550,
+      "publicationDate": "2023-04-10",
+      "description": "A complete guide to Angular for beginners and professionals."
+    },
+    {
+      "id": 2,
+      "title": "RxJS in Depth",
+      "price": 750,
+      "publicationDate": "2022-10-15",
+      "description": "Learn reactive programming with RxJS and Observables."
+    }
+  ]
+
+
